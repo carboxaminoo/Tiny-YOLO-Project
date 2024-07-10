@@ -1,2 +1,4 @@
 # Tiny-YOLO-Project
-2022-2 Computer Vision 프로젝트 
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
